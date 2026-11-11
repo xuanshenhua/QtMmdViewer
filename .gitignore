@@ -1,0 +1,40 @@
+# qmake / make 生成的文件
+Makefile*
+*.o
+*.obj
+moc_*
+qrc_*
+ui_*
+*.moc
+.qmake.stash
+.qmake.cache
+object_script.*
+ModelViewer
+ModelViewer.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Qt Creator 用户配置与构建目录
+*.pro.user
+*.pro.user.*
+build-*/
+Build/
+debug/
+release/
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 测试素材（模型、动作、音频通常有单独的使用许可，请勿提交）
+*.pmx
+*.pmd
+*.vmd
+*.wav
+*.mp3
+*.ogg

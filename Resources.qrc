@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/Model.vert</file>
+        <file>Shaders/Model.frag</file>
+        <file>Shaders/Edge.vert</file>
+        <file>Shaders/Edge.frag</file>
+        <file>Shaders/Shadow.vert</file>
+        <file>Shaders/Shadow.frag</file>
+        <file>Shaders/Ground.vert</file>
+        <file>Shaders/Ground.frag</file>
+    </qresource>
+</RCC>

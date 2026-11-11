@@ -1,0 +1,33 @@
+MIT License
+
+Copyright (c) 2026 xuanshenhua
+Copyright (c) 2024 Phoshco（原项目 model-viewer，本项目在功能设计上参考了它）
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+中文说明（仅供参考，以上英文原文为准）：
+本软件以 MIT 许可证发布。任何人都可以免费获得本软件及其文档的副本，并可不受限制地
+使用、复制、修改、合并、发布、分发、再许可和/或出售本软件，但须在所有副本或主要部分
+中保留上述版权声明和本许可声明。本软件按“原样”提供，不附带任何形式的担保。
+
+致谢：
+- Phoshco/model-viewer（MIT）：原始的网页版 MMD 查看器，本项目的功能参考来源。
+- noname0310/babylon-mmd（MIT）：MMD 运行时的实现思路参考（变形顺序、镜头公式、VMD 插值布局等）。
+本项目没有复制上述项目的任何代码或资源文件，全部为 Qt6 C++ 重新实现。
